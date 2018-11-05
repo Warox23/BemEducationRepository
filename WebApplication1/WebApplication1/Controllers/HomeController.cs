@@ -10,6 +10,10 @@ namespace WebApplication1.Controllers
 {
     public class HomeController : Controller
     {
+        public IActionResult Appointment()
+        {
+            return View();
+        }
         public IActionResult Index()
         {
             return View();

@@ -1,0 +1,11 @@
+F:\GitProj\BemEducationRepository\WebApplication1\WebApplication1\bin\Debug\netcoreapp2.0\WebApplication1.deps.json
+F:\GitProj\BemEducationRepository\WebApplication1\WebApplication1\bin\Debug\netcoreapp2.0\WebApplication1.runtimeconfig.json
+F:\GitProj\BemEducationRepository\WebApplication1\WebApplication1\bin\Debug\netcoreapp2.0\WebApplication1.runtimeconfig.dev.json
+F:\GitProj\BemEducationRepository\WebApplication1\WebApplication1\bin\Debug\netcoreapp2.0\WebApplication1.dll
+F:\GitProj\BemEducationRepository\WebApplication1\WebApplication1\obj\Debug\netcoreapp2.0\WebApplication1.csprojResolveAssemblyReference.cache
+F:\GitProj\BemEducationRepository\WebApplication1\WebApplication1\obj\Debug\netcoreapp2.0\WebApplication1.csproj.CoreCompileInputs.cache
+F:\GitProj\BemEducationRepository\WebApplication1\WebApplication1\obj\Debug\netcoreapp2.0\WebApplication1.AssemblyInfoInputs.cache
+F:\GitProj\BemEducationRepository\WebApplication1\WebApplication1\obj\Debug\netcoreapp2.0\WebApplication1.AssemblyInfo.cs
+F:\GitProj\BemEducationRepository\WebApplication1\WebApplication1\bin\Debug\netcoreapp2.0\WebApplication1.pdb
+F:\GitProj\BemEducationRepository\WebApplication1\WebApplication1\obj\Debug\netcoreapp2.0\WebApplication1.dll
+F:\GitProj\BemEducationRepository\WebApplication1\WebApplication1\obj\Debug\netcoreapp2.0\WebApplication1.pdb
